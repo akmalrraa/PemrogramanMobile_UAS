@@ -1,6 +1,6 @@
 # ⚽ KickOff Booking – Aplikasi Booking Lapangan Sepak Bola Android 📱  
 
-**Dibuat oleh:** Akmal Rabbih Aizar  
+**Nama:** Akmal Rabbih Aizar  
 **NIM:** 232101180  
 **Kelas:** TIF RP23I – Universitas Teknologi Bandung  
 
