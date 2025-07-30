@@ -104,4 +104,4 @@
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/akmalrabbih/KickOff.Booking.git
+   git clone https://github.com/akmalrraa/KickOff.Booking.git
